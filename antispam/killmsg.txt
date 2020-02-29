@@ -1,0 +1,6 @@
+[ma/net]:Network advertising is not allowed on this network type /remote off 4,1[0Ha15,1nzl14a15S0cript-15MX4]
+[ma/web]:Website advertising is not allowed on this network 4,1[0Ha15,1nzl14a15S0cript-15MX4]
+[ma/inv]:Channel advertising is not allowed on this network, if you continue the channel may be closed 4,1[0Ha15,1nzl14a15S0cript-15MX4]
+[exp/bd]:Please do not attempt to exploit users 4,1[0Ha15,1nzl14a15S0cript-15MX4]
+[exp/vrs]:You are autosending viruses to other users via DCC. Please visit http://www.nohack for help 4,1[0Ha15,1nzl14a15S0cript-15MX4]
+[exp/bd]:Do not attempt to exploit other users via CTCP backdoors 4,1[0Ha15,1nzl14a15S0cript-15MX4]

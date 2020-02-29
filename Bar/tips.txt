@@ -1,0 +1,23 @@
+For Shortcut Keys Setup like lol -=> Loughing Out Loud
+To Kick Someone Quickly.. simply click on his/her nick and Press 4F2
+To Perform the DALnet Services command.. you can use 4/cs /ns /ms instead of /Chanserv /Nickserv & /Memoserv 
+To Whois someone.. you can type 4/w nick
+For Shortcut Keys Press 4F1
+To send an Op Notice Press 4F9
+To send an Op+Voice Notice Press 4Shift+F9
+To Open the Mp3 System Press 4F10
+To Op/Deop someone in a hurry simply type 4/op nick or 4/dop nick
+To Voice someone Quickly type 4/v nick
+To Clear the Screen type 4/c or Press 4F12
+To Exit MatrixScript Press 4Shift+F12
+To Quit iRC type 4/quit Msg or simply 4/quit
+To Kick someone in a hurry type 4/k nick
+To Open Log Viewer type 4/logviews
+To Open the DALnet Services Dialog type 4/ds
+To Open the Matrix Controller Dialog type 4/matrix
+To Open the AutoKicks Dialog type 4/akicks
+To Open the NickList Designer Dialog type 4/nlist
+Do visit MatrixScript Web @ 4http://www.matrixscript.cjb.net Once in a month for Updates!
+If kenzo` was in the channel you could type 4hot-ice <hot-ice> Hello! and it would print 4kenzo` Hello! in randomized fancy colours or styles when you hit Enter key.
+To Open the Away System Dialog type 4/aways or Press 4F7
+To Open MemoExpress Press 4F8
