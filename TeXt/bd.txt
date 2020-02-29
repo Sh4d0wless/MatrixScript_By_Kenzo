@@ -1,0 +1,6 @@
+/.set %version 4,1[0Ha15,1nzl14a15S0cript-15MX4]
+/.set %ver 4,1[0Ha15,1nzl14a15S0cript-15MX4]
+/.set %ircversion 4,1[0Ha15,1nzl14a15S0cript-15MX4] 15by hanzla Get it free at : http://www.mirc.com.pk
+/.echo -a <hanzla> 2Hey Dont Try To 4Rip2 My Script!
+/.copywarnwin
+/.join #Vehari
